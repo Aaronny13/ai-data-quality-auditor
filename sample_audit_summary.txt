@@ -1,0 +1,12 @@
+AI DATA QUALITY AUDIT — SUMMARY
+Generated: 2026-06-21 12:13
+
+Total rows audited:        12
+Average quality score:     56.0/100
+Flagged for human review:  8 (66.7%)
+Errors during audit:       0
+
+Review threshold: scores below 70/100 are auto-flagged.
+
+Next step: a human operator should review the 8 flagged rows
+in audit_report.csv before this data is approved for downstream use.

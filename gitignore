@@ -1,0 +1,12 @@
+# Protect against accidentally committing secrets
+.env
+*.key
+secrets.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Output files from running the script (sample versions are tracked deliberately)
+audit_report.csv
+audit_summary.txt
